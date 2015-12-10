@@ -25,3 +25,6 @@ matrix:
       env: TEST_PEP8=1
     - python: "3.4"
       env: TEST_PEP8=1
+
+
+build_image: drydock/u14pytpls:prod
